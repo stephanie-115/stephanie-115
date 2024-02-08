@@ -3,8 +3,8 @@
 #### 🚀 About Me
 I'm a passionate **Software Engineer** with a knack for creating robust and scalable web applications. My toolkit includes **JavaScript, Node.js, Express, React, TypeScript, GraphQL, SQL, NoSQL, Cypress, and Jest**. I'm an avid **open source contributor** and love to immerse myself in the full stack of development.
 
-#### 🐾 Current Project: NutriPup
-My current venture is **[NutriPup](https://github.com/stephanie-115/nutripup)**, an innovative app dedicated to canine nutrition. Born from my personal journey with my English Bulldog, Stanley, it aims to help dog owners craft nutritious meals tailored to their furry friends. It's a project where my love for dogs and coding intersects!
+####🌷 Current Project: GreenPets
+My current venture is **[GreenPets](https://github.com/Los-Terremotos/GreenPets)**, an innovative app dedicated to prospective plant parents. 
 
 #### 💻 Open to Collaboration
 I'm always eager to collaborate with fellow developers and contribute to meaningful projects. If you're looking for someone who can add value with extensive full-stack skills and a creative approach, let's connect!
