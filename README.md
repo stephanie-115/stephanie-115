@@ -3,7 +3,7 @@
 #### 🚀 About Me
 I'm a passionate **Software Engineer** with a knack for creating robust and scalable web applications. My toolkit includes **JavaScript, Node.js, Express, React, TypeScript, GraphQL, SQL, NoSQL, Cypress, and Jest**. I'm an avid **open source contributor** and love to immerse myself in the full stack of development.
 
-####🌷 Current Project: GreenPets
+#### 🌷 Current Project: GreenPets
 My current venture is **[GreenPets](https://github.com/Los-Terremotos/GreenPets)**, an innovative app dedicated to prospective plant parents. 
 
 #### 💻 Open to Collaboration
