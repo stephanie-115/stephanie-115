@@ -10,4 +10,4 @@ My current venture is **[GreenPets](https://github.com/Los-Terremotos/GreenPets)
 Currently, I'm expanding my skill set by diving into **AWS**. I believe in continuous learning and am excited about incorporating cloud technologies into my work.
 
 #### 📫 Connect with Me
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/stephanie-t-serrano/). Let's talk tech, dogs, or the latest good read!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/stephanie-t-serrano/).
